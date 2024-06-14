@@ -22,6 +22,6 @@
         "sass-loader": "^8.0.0"
     },
     "dependencies": {
-        "startbootstrap-clean-blog": "^5.0.10"
+        "startbootstrap-clean-blog": "^5.1.0"
     }
 }
